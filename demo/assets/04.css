@@ -1,0 +1,299 @@
+body{ margin: 0px 0px 0px 0px; padding: 0px; content: 0px; }
+    	div.head
+    	{
+			 background-color:	#FFF8DC;
+			height: 200px;
+			width: 100%
+			
+    	}
+		div.side
+		{
+ 
+
+                height:100px;
+
+                width: 100%;
+
+                background-color: #FFF0F5	;
+
+               
+				margin:0 auto;
+
+		}
+		div.content
+		{
+			
+			 height:800px;
+
+                width: 100%;
+
+                background-color: white;
+
+                float: right;
+				margin:0 auto;
+				background-size:cover;
+		    background-image:url("img/back.png");
+
+
+
+
+		}
+		div.footer
+		{
+				 clear: both;
+				
+			     height: 150px;
+				margin:0 padding:0;
+				background-color:#FFB6C1;
+		}
+
+		h1.head1
+			{
+				position:absolute;
+				top:10px;
+				left:500px;
+				text-align: center;
+				color:#0044BB;
+				font-size:80px;
+				font-family: "微軟正黑體";
+				font-weight: bolder;
+				letter-spacing: 60px;
+
+
+			}
+	    .img1
+	    {
+	    	position: absolute;
+			top:400px;
+			left:300px;
+	    }
+	    .img2
+	    {
+	    	position: absolute;
+			top:400px;
+			left:800px;
+	    }
+	     .img11
+	    {
+	    	position: absolute;
+			top:850px;
+			left:200px;
+	    }
+	    .img12
+	    {
+	    	position: absolute;
+			top:850px;
+			left:800px;
+	    }
+	    .img3
+	    {
+	    	position: absolute;
+			top:200px;
+			left:300px;
+			width:100px;
+			height:100px;
+	    }
+	    .img4
+	    {
+	    	position: absolute;
+			top:200px;
+			left:500px;
+			width:100px;
+			height:100px;
+	    }
+	    .img5
+	    {
+	    	position: absolute;
+			top:200px;
+			left:700px;
+			width:100px;
+			height:100px;
+	    }
+	    .img6
+	    {
+	    	position: absolute;
+			top:200px;
+			left:900px;
+			width:100px;
+			height:100px;
+	    }
+	    .img7
+	    {
+	    	position: absolute;
+			top:200px;
+			left:1100px;
+			width:100px;
+			height:100px;
+	    }
+	    .imgig
+	    {
+
+			position: absolute;
+			top:1120px;
+			left:200px;
+			width:100px;
+			height:100px;
+
+	    }
+	    .imgfb
+	    {
+	    	position: absolute;
+			top:1120px;
+			left:700px;
+			width:100px;
+			height:100px;
+		}
+	    .img8
+	    {
+	    	position: absolute;
+			top:0px;
+			left: 0px;
+
+
+
+
+
+
+	    }
+		.txt1
+		{
+			position: absolute;
+			top:380px;
+			left:450px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "微軟正黑體";
+			border: dashed #EE7700 4px;
+			width: 300px;
+			height: 245px
+
+			
+		}
+		.txt2
+		{
+			position: absolute;
+			top:380px;
+			left:1050px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "微軟正黑體";
+			border: dashed #EE7700 4px;
+			width: 300px;
+			height: 245px
+
+			
+		}
+		.txt3
+		{
+			position: absolute;
+			top:830px;
+			left:450px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "微軟正黑體";
+			border: dashed #EE7700 4px;
+			width: 300px;
+			height: 245px
+
+			
+		}
+		.txt4
+		{
+			position: absolute;
+			top:830px;
+			left:1050px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "微軟正黑體";
+			border: dashed #EE7700 4px;
+			width: 300px;
+			height: 245px
+
+			
+		}
+		.txtig
+		{
+			position: absolute;
+			top:1100px;
+			left:350px;
+			font-weight: bolder;
+			font-size:50px;
+			font-family: "微軟正黑體";
+			
+
+		}
+
+		.txtfb
+		{
+			position: absolute;
+			top:1100px;
+			left:800px;
+			font-weight: bolder;
+			font-size:50px;
+			font-family: "微軟正黑體";
+			
+
+		}
+		.txt666
+		{	
+			text-decoration:underline;
+			color:blue;
+			position: absolute;
+			top:600px;
+			left:470px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "微軟正黑體";
+			width: 300px;
+			height: 245px
+			
+			
+
+		}
+		.txt777
+		{	
+			text-decoration:underline;
+			color:blue;
+			position: absolute;
+			top:600px;
+			left:1080px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "微軟正黑體";
+			width: 300px;
+			height: 245px
+			
+			
+
+		}
+		.txt888
+		{	
+			text-decoration:underline;
+			color:blue;
+			position: absolute;
+			top:1050px;
+			left:470px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "微軟正黑體";
+			
+			
+			
+
+		}
+		.txt999
+		{	
+			text-decoration:underline;
+			color:blue;
+			position: absolute;
+			top:1050px;
+			left:1080px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "微軟正黑體";
+			
+			
+			
+
+		}
+

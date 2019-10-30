@@ -1,0 +1,279 @@
+body{ margin: 0px 0px 0px 0px; padding: 0px; content: 0px; }
+    	
+    	div.head
+    	{
+			 background-color:	#FFF8DC;
+			height: 200px;
+			width: 100%
+			
+    	}
+		div.side
+		{
+ 
+
+                height:100px;
+
+                width: 100%;
+
+                background-color: #FFF0F5	;
+
+               
+				margin:0 auto;
+
+		}
+		div.content
+		{
+			 height: auto;
+
+                width: 100%;
+
+               
+
+                float: right;
+				margin:0 auto;
+
+				background-size:cover;
+		    background-image:url("img/back.png");
+
+
+
+		}
+		div.footer
+		{
+				 clear: both;
+				
+			     height: 150px;
+				margin:0 padding:0;
+				background-color:#FFB6C1;
+		}
+
+		h1.head1
+			{
+				position:absolute;
+				top:10px;
+				left:500px;
+				text-align: center;
+				color:#0044BB;
+				font-size:80px;
+				font-family: "微軟正黑體";
+				font-weight: bolder;
+				letter-spacing: 60px;
+
+
+			}
+	    .img1
+	    {
+	    	position: absolute;
+			top:400px;
+			left:200px;
+	    }
+	    .img2
+	    {
+	    	position: absolute;
+			top:400px;
+			left:800px;
+	    }
+	    .img3
+	    {
+	    	position: absolute;
+			top:200px;
+			left:300px;
+			width:100px;
+			height:100px;
+	    }
+	    .img4
+	    {
+	    	position: absolute;
+			top:200px;
+			left:500px;
+			width:100px;
+			height:100px;
+	    }
+	    .img5
+	    {
+	    	position: absolute;
+			top:200px;
+			left:700px;
+			width:100px;
+			height:100px;
+	    }
+	    .img6
+	    {
+	    	position: absolute;
+			top:200px;
+			left:900px;
+			width:100px;
+			height:100px;
+	    }
+	    .img7
+	    {
+	    	position: absolute;
+			top:200px;
+			left:1100px;
+			width:100px;
+			height:100px;
+	    }
+	    .imgig
+	    {
+
+			position: absolute;
+			top:2200px;
+			left:200px;
+			width:100px;
+			height:100px;
+
+	    }
+	    .imgfb
+	    {
+	    	position: absolute;
+			top:2200px;
+			left:700px;
+			width:100px;
+			height:100px;
+
+	    }
+	    .img8
+	    {
+	    	position: absolute;
+			top:0px;
+			left: 0px;
+
+
+
+
+
+
+	    }
+		.txt1
+		{
+			position: absolute;
+			top:380px;
+			left:450px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "標楷體";
+			border: dashed #EE7700 4px;
+			width: 300px;
+			height: 245px
+
+			
+		}
+		.txt2
+		{
+			position: absolute;
+			top:500px;
+			left:350px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "標楷體";
+			border: dashed #EE7700 4px;
+			width: 300px;
+			height: 81px
+
+			
+		}
+		.txt3
+		{
+			position: absolute;
+			top:830px;
+			left:450px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "標楷體";
+			border: dashed #EE7700 4px;
+			width: 300px;
+			height: 245px
+
+			
+		}
+		.txt4
+		{
+			position: absolute;
+			top:830px;
+			left:1050px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "標楷體";
+			border: dashed #EE7700 4px;
+			width: 300px;
+			height: 245px
+
+			
+		}
+		.txtig
+		{
+			position: absolute;
+			top:2180px;
+			left:350px;
+			font-weight: bolder;
+			font-size:50px;
+			font-family: "標楷體";
+			
+
+		}
+		.txtfb
+		{
+			position: absolute;
+			top:2180px;
+			left:800px;
+			font-weight: bolder;
+			font-size:50px;
+			font-family: "標楷體";
+			
+
+		}
+        div.table
+		{
+			position: absolute;
+			top:400px;
+			left: 250px;
+            border-style:none;
+            text-align:center;
+            border:2px solid #AAAAAA; 
+		}
+		
+		td.b
+		{
+			color: black;
+			text-align: center;
+			font-family: "標楷體";
+			font-style: italic;
+			font-size: 30px;
+			padding: 10px 10px 10px 10px
+			
+
+		}
+
+		td.a
+		{	
+			font-size: 30px;
+			color: black;
+			text-align: center;
+			padding: 10px 10px 10px 10px
+			
+			
+
+		}
+		table,th,td{border: 5px solid white;
+		margin-top: 100px;
+			}
+		p.a{
+			font-size: 35px;
+			
+			font-family: Microsoft JhengHei;
+			
+			text-align:center;
+		}
+		p.b
+		{font-size:20px;
+			
+			font-family: Microsoft JhengHei;
+			text-align:center;
+		}
+		
+		td.d_over{background:#FFB6C1;}
+		td.d_out{background:#FFE4E1;}
+		div.pic{width:500px; height:400px;overflow:hidden;}
+		div.pic img{transform:scale(1,1);transition: all 1s ease-out;}
+		div.pic img:hover{transform:scale(1.2,1.2);}
+

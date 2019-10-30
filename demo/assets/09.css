@@ -1,0 +1,295 @@
+body{ margin: 0px 0px 0px 0px; padding: 0px; content: 0px; }
+    	
+    	div.head
+    	{
+			 background-color:	#FFF8DC;
+			height: 200px;
+			width: 100%
+			
+    	}
+		div.side
+		{
+ 
+
+                height:100px;
+
+                width: 100%;
+
+                background-color: #FFF0F5	;
+
+               
+				margin:0 auto;
+
+		}
+		div.content
+		{
+			background-color:white;
+
+			 height:780px;
+
+                width: 100%;
+
+               
+
+                
+				margin:0 auto;
+				background-size:cover;
+		    background-image:url("img/back.png");
+            
+
+
+		}
+		div.footer
+		{
+				 clear: both;
+				
+			     height: 150px;
+				margin:0 padding:0;
+				background-color:#FFB6C1;
+		}
+
+		h1.head1
+			{
+				position:absolute;
+				top:10px;
+				left:500px;
+				text-align: center;
+				color:#0044BB;
+				font-size:80px;
+				font-family: "微軟正黑體";
+				font-weight: bolder;
+				letter-spacing: 60px;
+
+
+			}
+	    .img1
+	    {
+	    	position: absolute;
+			top:400px;
+			left:200px;
+	    }
+	    .img2
+	    {
+	    	position: absolute;
+			top:400px;
+			left:800px;
+	    }
+	    .img3
+	    {
+	    	position: absolute;
+			top:200px;
+			left:300px;
+			width:100px;
+			height:100px;
+	    }
+	    .img4
+	    {
+	    	position: absolute;
+			top:200px;
+			left:500px;
+			width:100px;
+			height:100px;
+	    }
+	    .img5
+	    {
+	    	position: absolute;
+			top:200px;
+			left:700px;
+			width:100px;
+			height:100px;
+	    }
+	    .img6
+	    {
+	    	position: absolute;
+			top:200px;
+			left:900px;
+			width:100px;
+			height:100px;
+	    }
+	    .img7
+	    {
+	    	position: absolute;
+			top:200px;
+			left:1100px;
+			width:100px;
+			height:100px;
+	    }
+	    .imgig
+	    {
+
+			position: absolute;
+			top:1130px;
+			left:200px;
+			width:100px;
+			height:100px;
+
+	    }
+	    .imgfb
+	    {
+	    	position: absolute;
+			top:1130px;
+			left:700px;
+			width:100px;
+			height:100px;
+
+	    }
+	    .img8
+	    {
+	    	position: absolute;
+			top:0px;
+			left: 0px;
+	    }
+	    .imgsolo
+	    {
+
+	    	position: absolute;
+			top:450px;
+			left: 365px;
+
+
+
+	    }
+	    .imgigsolo
+	    {
+
+	    	position: absolute;
+			top:860px;
+			left: 460px;
+
+
+
+	    }
+	     .imgbacksolo
+	    {
+
+	    	position: absolute;
+			top:980px;
+			left: 1360px;
+
+
+
+	    }
+		.txt1
+		{
+			position: absolute;
+			top:380px;
+			left:450px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "標楷體";
+			border: dashed #EE7700 4px;
+			width: 300px;
+			height: 245px
+
+			
+		}
+		.txt2
+		{
+			position: absolute;
+			
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "標楷體";
+			border: dashed #EE7700 4px;
+			width: 200px;
+			height: 41px
+
+			
+		}
+		.txt3
+		{
+			position: absolute;
+			top:830px;
+			left:450px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "標楷體";
+			border: dashed #EE7700 4px;
+			width: 300px;
+			height: 245px
+
+			
+		}
+		.txt4
+		{
+			position: absolute;
+			top:830px;
+			left:1050px;
+			font-weight: bolder;
+			font-size:20px;
+			font-family: "標楷體";
+			border: dashed #EE7700 4px;
+			width: 300px;
+			height: 245px
+
+			
+		}
+		.txtig
+		{
+			position: absolute;
+			top:1120px;
+			left:350px;
+			font-weight: bolder;
+			font-size:50px;
+			font-family: "標楷體";
+			
+
+		}
+		.txtfb
+		{
+			position: absolute;
+			top:1120px;
+			left:800px;
+			font-weight: bolder;
+			font-size:50px;
+			font-family: "標楷體";
+			
+
+		}
+		.txtsolo
+		{
+			color:#F4A460;
+			position: absolute;
+			top:540px;
+			left:600px;
+			font-weight: bolder;
+			font-size:25px;
+			font-family: "微軟正黑體";
+			border: dashed #EE7700 4px;
+			width: 610px;
+			height: 270px
+
+		}
+		.txtigsolo
+		{
+			color:	#EE7700	;
+			position: absolute;
+			top:820px;
+			left:600px;
+			font-weight: bolder;
+			font-size:50px;
+			font-family: "微軟正黑體";
+
+		}
+		h1.solo
+		{
+			color:	#EE7700;
+			position: absolute;
+			top:400px;
+			left:600px;
+			font-weight: bolder;
+			font-size:45px;
+			font-family: "微軟正黑體";
+			
+
+		}
+		h1.solo2
+		{
+			color:	#EE7700;
+			position: absolute;
+			top:470px;
+			left:600px;
+			font-weight: bolder;
+			font-size:34px;
+			font-family: "微軟正黑體";
+		}
